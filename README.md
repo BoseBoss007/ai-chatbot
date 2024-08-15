@@ -1,0 +1,1 @@
+Developed an AI chatbot using Python, TensorFlow, and NLP. Trained the model on a custom .json dataset over 500 epochs using Artificial Neural Networks, employing both forward and backward propagation techniques with an accuracy of over 98 percent.
